@@ -1,5 +1,3 @@
-// Here is a new comment
-
 Button rulesButton;                                                         // See class definition for "Button"
 String[] line;                                                              // Used in the help file function
 int big = 90;                                                               // Size of large Gobblets
