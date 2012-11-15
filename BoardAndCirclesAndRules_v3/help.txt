@@ -1,0 +1,10 @@
+Gobblet Rules
+
+The playing area is a board with 16 cells. There are 24 playing pieces called "gobblets," 12 of each color
+for 2 players. There are gobblets of 4 sizes, so each player has 3 big, 3 medium, 3 small and 3 mini gobblets.
+
+Each player takes turns either placing a gobblet on the board, moving a gobblet to a new position on the
+board, or using an existing gobblet on the board to "gobble" a smaller piece. Players can gobble either
+their opponent's or their own gobblets.
+
+The first player to build a horizontal, vertial or diagonal line of 4 gobblets is the winner!
